@@ -1,0 +1,15 @@
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\bin\Debug\net6.0\Gyakorlo_fealadtok.exe
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\bin\Debug\net6.0\Gyakorlo_fealadtok.deps.json
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\bin\Debug\net6.0\Gyakorlo_fealadtok.runtimeconfig.json
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\bin\Debug\net6.0\Gyakorlo_fealadtok.dll
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\bin\Debug\net6.0\Gyakorlo_fealadtok.pdb
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.csproj.AssemblyReference.cache
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.AssemblyInfoInputs.cache
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.AssemblyInfo.cs
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.csproj.CoreCompileInputs.cache
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.dll
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\refint\Gyakorlo_fealadtok.dll
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.pdb
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\Gyakorlo_fealadtok.genruntimeconfig.cache
+C:\Users\Franki\Desktop\git\Laskoi_adam_practice_01\Feladat01\Gyakorlo_fealadtok\obj\Debug\net6.0\ref\Gyakorlo_fealadtok.dll
